@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
+<h1 align="center">Hi 👋, I'm Samuel Bordignon</h1>
 <h3 align="center">A passionate developer exploring the world of technology</h3>
 
 <p align="center">
@@ -16,10 +16,11 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **personal projects to enhance my skills.**
-- 🌱 I’m currently learning **TailwindCSS, Java, and Next.js.**
-- 💬 Ask me about **React, Node.js, and PostgreSQL.**
-- ⚡ Fun fact: I love turning challenges into learning opportunities!
+
+- 🔭 I am currently working on personal and academic projects as part of my technical course at SENAI, focusing on improving my skills and exploring new technologies.
+- 🌱 I am learning TailwindCSS and Java.
+- 💬 Feel free to ask me about React, Node.js, and PostgreSQL.
+- ⚡ Fun fact: I enjoy working on challenging projects that help me grow. I'm also keen on exploring Artificial Intelligence technologies to enhance my performance and discover new possibilities!
 
 ---
 
