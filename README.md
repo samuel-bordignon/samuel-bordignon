@@ -46,7 +46,7 @@
 ---
 
 ### 📫 How to Reach Me:
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Email: [samuelborwie@gmail.com](mailto:youremail@example.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
 
 ---
