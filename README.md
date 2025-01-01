@@ -47,7 +47,7 @@
 
 ### 📫 How to Reach Me:
 - Email: [samuelborwie@gmail.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
+- LinkedIn: [www.linkedin.com/in/samuel-bordignon-wiegand](https://www.linkedin.com/in/samuel-bordignon-wiegand-b62794271/)
 
 ---
 
