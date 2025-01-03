@@ -36,6 +36,7 @@
 </div>
 
 ---
+![Snake animation](https://github.com/seu-usuario/seu-repositorio/blob/output/github-contribution-grid-snake.svg)
 
 ### 📈 GitHub Stats:
 <div align="center">
