@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samuel Bordignon</h1>
-<h3 align="center">A passionate developer exploring the world of technology</h3>
+<h1 align="center">Olá 👋, sou Samuel Bordignon</h1>
+<h3 align="center">Um desenvolvedor apaixonado explorando o mundo da tecnologia</h3>
 
 <p align="center">
   <a href="https://github.com/samuel-bordignon">
@@ -15,13 +15,12 @@
 
 ---
 
-### 👨‍💻 About Me:
+### 👨‍💻 Sobre mim:
 
-- 🔭 I am currently working on personal and academic projects as part of my technical course at SENAI, focusing on improving my skills and exploring new technologies.
-- 🌱 I am learning TailwindCSS and Java.
-- 💬 Feel free to ask me about React, Node.js, and PostgreSQL.
-- ⚡ Fun fact: I enjoy working on challenging projects that help me grow. I'm also keen on exploring Artificial Intelligence technologies to enhance my performance and discover new possibilities!
-
+- 🔭 Atualmente estou trabalhando em projetos pessoais e acadêmicos como parte do meu curso técnico no SENAI, com foco em aprimorar minhas habilidades e explorar novas tecnologias.
+- 🌱 Estou aprendendo TailwindCSS e Java.
+- 💬 Sinta-se à vontade para me perguntar sobre React, Node.js e PostgreSQL.
+- ⚡ Curiosidade: gosto de trabalhar em projetos desafiadores que me ajudam a crescer. Também tenho interesse em explorar tecnologias de Inteligência Artificial para melhorar meu desempenho e descobrir novas possibilidades!
 ---
 
 ### 🛠️ Tech Stack:
@@ -36,7 +35,6 @@
 </div>
 
 ---
-![Snake animation](https://github.com/seu-usuario/seu-repositorio/blob/output/github-contribution-grid-snake.svg)
 
 ### 📈 GitHub Stats:
 <div align="center">
