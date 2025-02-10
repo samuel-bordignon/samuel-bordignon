@@ -18,7 +18,7 @@
 ### 👨‍💻 Sobre mim:
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais e acadêmicos como parte do meu curso técnico no SENAI, com foco em aprimorar minhas habilidades e explorar novas tecnologias.
-- 🌱 Estou aprendendo TailwindCSS e Java.
+- 🌱 Estou aprendendo TailwindCSS.
 - 💬 Sinta-se à vontade para me perguntar sobre React, Node.js e PostgreSQL.
 - ⚡ Curiosidade: gosto de trabalhar em projetos desafiadores que me ajudam a crescer. Também tenho interesse em explorar tecnologias de Inteligência Artificial para melhorar meu desempenho e descobrir novas possibilidades!
 ---
