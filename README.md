@@ -18,13 +18,17 @@
 ### 👨‍💻 Sobre mim:
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais e acadêmicos como parte do meu curso técnico no SENAI, com foco em aprimorar minhas habilidades e explorar novas tecnologias.
-- 🌱 Estou aprendendo TailwindCSS.
-- 💬 Sinta-se à vontade para me perguntar sobre React, Node.js e PostgreSQL.
-- ⚡ Curiosidade: gosto de trabalhar em projetos desafiadores que me ajudam a crescer. Também tenho interesse em explorar tecnologias de Inteligência Artificial para melhorar meu desempenho e descobrir novas possibilidades!
+- 🌱 Estou aprendendo Typescrit.
+- 💬 Sinta-se à vontade para conversar comigo sobre React, node.js entre outras tecnologias fontEnd e frameworks como o Next.js.
+- ⚡ Curiosidade: gosto de trabalhar em projetos desafiadores que me ajudam a crescer. 
 ---
 
 ### 🛠️ Tech Stack:
 <div align="center">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -44,12 +48,7 @@
 
 ---
 
-### 📫 How to Reach Me:
+### 📫 Como me contatar:
 - Email: [samuelborwie@gmail.com](mailto:youremail@example.com)
 - LinkedIn: [www.linkedin.com/in/samuel-bordignon-wiegand](https://www.linkedin.com/in/samuel-bordignon-wiegand-b62794271/)
-
----
-
-### 💡 Let's Connect!
-Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
 
