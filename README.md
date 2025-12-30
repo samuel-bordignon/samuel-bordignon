@@ -40,14 +40,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-bordignon&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-bordignon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
----
-
 ### 📫 Como me contatar:
 - Email: [samuelborwie@gmail.com](mailto:youremail@example.com)
 - LinkedIn: [www.linkedin.com/in/samuel-bordignon-wiegand](https://www.linkedin.com/in/samuel-bordignon-wiegand-b62794271/)
