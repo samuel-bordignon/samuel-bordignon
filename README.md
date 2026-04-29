@@ -15,14 +15,6 @@
 
 ---
 
-### 👨‍💻 Sobre mim:
-
-- 🔭 Atualmente estou trabalhando em projetos pessoais e acadêmicos como parte do meu curso técnico no SENAI, com foco em aprimorar minhas habilidades e explorar novas tecnologias.
-- 🌱 Estou aprendendo Typescript.
-- 💬 Sinta-se à vontade para conversar comigo sobre React, node.js entre outras tecnologias fontEnd e frameworks como o Next.js.
-- ⚡ Curiosidade: gosto de trabalhar em projetos desafiadores que me ajudam a crescer. 
----
-
 ### 🛠️ Tech Stack:
 <div align="center">
   <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge" />
