@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, sou Samuel Bordignon</h1>
-<h3 align="center">Um desenvolvedor apaixonado explorando o mundo da tecnologia</h3>
 
 <p align="center">
   <a href="https://github.com/samuel-bordignon">
